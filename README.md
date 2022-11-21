@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LVzibens
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me krisjanis21lorencs@gmail.com
 
